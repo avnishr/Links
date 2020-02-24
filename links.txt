@@ -1,0 +1,4 @@
+Following are good links for Spark 
+
+
+1. Parallelizing with Apache Spark in Unexpected Ways https://www.youtube.com/watch?v=WZ5TJUYWyU0 
